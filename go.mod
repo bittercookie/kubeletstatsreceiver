@@ -1,4 +1,4 @@
-module github.com/bittercookie/kubeletstatsreceiver
+module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver
 
 go 1.22.0
 
